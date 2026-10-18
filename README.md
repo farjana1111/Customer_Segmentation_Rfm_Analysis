@@ -24,7 +24,6 @@ Online Retail dataset containing transactional data of a UK-based e-commerce sto
 
 ## Visualization
 Customer segmentation visualized using scatter plots.
-![Customer Segmentation](cluster_plot.png)
 
 ## Key Insights
 - Identified high-value (VIP) customers
